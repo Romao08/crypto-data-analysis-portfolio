@@ -1,0 +1,7 @@
+tx_id,asset,expected_amount,received_amount,fee,network,status
+1,USDT,100.00,99.10,0.90,ERC20,settled
+2,USDC,250.00,250.00,0.00,Solana,settled
+3,ETH,1.5000,1.4986,0.0014,Ethereum,settled
+4,USDT,50.00,49.00,1.00,TRC20,settled
+5,BTC,0.0100,0.0098,0.0002,Bitcoin,settled
+6,USDC,75.00,0.00,0.00,Solana,failed
