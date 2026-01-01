@@ -1,6 +1,7 @@
 # Crypto & Fintech Data Analysis Portfolio
 
-Small, self-contained projects showcasing how I approach data analysis in crypto and financial platforms.
+Small, self-contained projects showcasing my approach to data analysis in crypto and financial systems, with an emphasis on correctness, transparency, and decision support.
+
 
 Focus areas:
 - KPI definition and interpretation
