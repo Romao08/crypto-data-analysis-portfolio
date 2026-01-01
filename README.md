@@ -11,3 +11,9 @@ Focus areas:
 Notes:
 - Projects use simplified or simulated datasets
 - No proprietary or confidential company data is included
+
+
+## Projects
+
+- **Transaction Reconciliation (Example)** — reconciliation logic + fee impact checks  
+  `transaction_reconciliation/`
