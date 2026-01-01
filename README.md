@@ -17,3 +17,12 @@ Notes:
 
 - **Transaction Reconciliation (Example)** — reconciliation logic + fee impact checks  
   `transaction_reconciliation/`
+
+## How to run
+
+Each project contains its own README with instructions.
+
+Example:
+```bash
+cd transaction_reconciliation
+python analysis.py
