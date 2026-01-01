@@ -16,7 +16,7 @@ Notes:
 ## Projects
 
 - **Transaction Reconciliation (Example)** — reconciliation logic + fee impact checks  
-  `transaction_reconciliation/`
+  transaction_reconciliation/
 
 ## How to run
 
